@@ -41,7 +41,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: "https://twitter.com/bergie/status/607710948451885058"
 datePublished: "2015-06-08T00:52:20.826Z"
-dateModified: "2015-06-08T00:52:20.826Z"
+dateModified: "2015-06-08T02:36:18.491Z"
 sourcePath: _posts/2015-06-08-d4tocchini-cbchouinard-inviz-spenhar-thegrid-also-4ngr.md
 published: true
 _type: Photograph
