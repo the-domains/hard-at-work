@@ -1,9 +1,9 @@
 ---
 author:
   - name: bergie
-    url: "http://twitter.com/bergie"
+    url: 'http://twitter.com/bergie'
     avatar:
-      src: "https://pbs.twimg.com/profile_images/536229475680522240/FmTU1D6I_bigger.jpeg"
+      src: 'https://pbs.twimg.com/profile_images/536229475680522240/FmTU1D6I_bigger.jpeg'
       width: 73
       height: 73
       colors:
@@ -21,9 +21,9 @@ author:
           - 140
 related: []
 publisher:
-  url: "http://twitter.com"
+  url: 'http://twitter.com'
   name: Twitter
-  favicon: "https://abs.twimg.com/favicons/favicon.ico"
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
   domain: twitter.com
 keywords:
   - spenhar
@@ -36,16 +36,16 @@ keywords:
   - inviz
   - twitter
   - location
-description: "@d4tocchini @cbchouinard @Inviz another @spenhar #hardatwork day @thegrid ?"
+description: '@d4tocchini @cbchouinard @Inviz another @spenhar #hardatwork day @thegrid ?'
 inLanguage: en
 app_links: []
-isBasedOnUrl: "https://twitter.com/bergie/status/606386518278737920"
-datePublished: "2015-06-05T07:05:49.808Z"
-dateModified: "2015-06-05T07:05:49.808Z"
+isBasedOnUrl: 'https://twitter.com/bergie/status/606386518278737920'
+datePublished: '2015-06-05T07:05:49.808Z'
+dateModified: '2015-06-12T06:09:25.254Z'
 sourcePath: _posts/2015-06-05-d4tocchini-cbchouinard-inviz-another-spenhar-hardatwork.md
 published: true
 _type: Photograph
-_context: "http://schema.org"
+_context: 'http://schema.org'
 
 ---
 ![&commat;d4tocchini &commat;cbchouinard &commat;Inviz another &commat;spenhar &num;hardatwork day &commat;thegrid &quest;](https://pbs.twimg.com/media/CGpRUy_UcAAFZ6T.jpg:large)
