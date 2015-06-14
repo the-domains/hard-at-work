@@ -44,7 +44,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/cbchouinard/status/609574213817491456?t=1&cn=bWVudGlvbg%3D%3D&sig=41e26339f7966fba7266281ed02f3fe8b261e090&al=1&refsrc=email&iid=65a17df541f54434a2a6f9e79be0e355&autoactions=1434168793&uid=639003&nid=4+1489'
 datePublished: '2015-06-13T04:43:57.306Z'
-dateModified: '2015-06-13T04:43:57.306Z'
+dateModified: '2015-06-14T22:15:33.661Z'
 sourcePath: _posts/2015-06-13-bergie-jononor-jongold-py-inviz-thegrid-4ngrymo-hard.md
 published: true
 _type: Photograph
