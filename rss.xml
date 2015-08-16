@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Hard at Work]]></title>
         <description><![CDATA[Hard at Work]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Aug 2015 09:43:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 16 Aug 2015 09:44:35 GMT</lastBuildDate>
+        <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&commat;jongold &num;hardatwork &num;USA&excl;" src="https://pbs.twimg.com/media/CMhU-ddWoAAZnsJ.jpg:large">]]></description>
+            <link>https://twitter.com/t3chn1ck/status/632849182815055872</link>
+            <guid isPermaLink="false">9259e218-c746-4174-ac9a-a062d4ed540a</guid>
+            <pubDate>Sun, 16 Aug 2015 09:44:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&commat;4ngryMo making it happen &commat;ccc &num;hardatwork" src="https://pbs.twimg.com/media/CMhUGRJWgAAaqTo.jpg:large">]]></description>
