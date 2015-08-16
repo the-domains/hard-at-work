@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hard at Work]]></title>
+        <description><![CDATA[Hard at Work]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 16 Aug 2015 09:43:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&commat;4ngryMo making it happen &commat;ccc &num;hardatwork" src="https://pbs.twimg.com/media/CMhUGRJWgAAaqTo.jpg:large">]]></description>
+            <link>https://twitter.com/t3chn1ck/status/632848216711688192</link>
+            <guid isPermaLink="false">07a207a3-3b9d-4a29-a455-621324cf3006</guid>
+            <pubDate>Sun, 16 Aug 2015 09:42:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
