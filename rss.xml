@@ -5,8 +5,15 @@
         <description><![CDATA[Hard at Work]]></description>
         <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Sep 2015 17:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 14:50:59 GMT</lastBuildDate>
         <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&commat;jononor as &num;hardatwork as ever at &commat;thegrid" src="https://pbs.twimg.com/media/CP1lI-UU8AEIAtl.jpg:large">]]></description>
+            <link>https://twitter.com/bergie/status/647785127788060672</link>
+            <guid isPermaLink="false">00279c37-dbd4-4d9d-9f01-941fdfff81cd</guid>
+            <pubDate>Sat, 26 Sep 2015 14:50:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&commat;jononor &num;hardatwork at &commat;thegrid Tallinn meetup" src="https://pbs.twimg.com/media/CPmqqkFUEAAkb0y.jpg:large">]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/t3chn1ck/status/632849182815055872</link>
             <guid isPermaLink="false">9259e218-c746-4174-ac9a-a062d4ed540a</guid>
             <pubDate>Sun, 16 Aug 2015 09:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;4ngryMo making it happen &commat;ccc &num;hardatwork" src="https://pbs.twimg.com/media/CMhUGRJWgAAaqTo.jpg:large">]]></description>
-            <link>https://twitter.com/t3chn1ck/status/632848216711688192</link>
-            <guid isPermaLink="false">07a207a3-3b9d-4a29-a455-621324cf3006</guid>
-            <pubDate>Sun, 16 Aug 2015 09:42:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
