@@ -5,8 +5,15 @@
         <description><![CDATA[Hard at Work]]></description>
         <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Sep 2015 14:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2015 19:12:06 GMT</lastBuildDate>
         <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Another one bit the dust &num;hardatwork &commat;bergie &commat;jononor" src="https://pbs.twimg.com/media/CQLFxSFWEAAjhwx.jpg:large">]]></description>
+            <link>https://twitter.com/4ngryMo/status/649298746912677889?t=1&amp;cn=bWVudGlvbg%3D%3D&amp;sig=e469a0e8f0a04a439bf71a7bc1a0c081185c39b3&amp;al=1&amp;refsrc=email&amp;iid=fc11bdeb33614abeb1ae05a39ff32650&amp;autoactions=1443639859&amp;uid=639003&amp;nid=4+1489</link>
+            <guid isPermaLink="false">44bd3024-2c0d-4460-a323-67fabebe1474</guid>
+            <pubDate>Wed, 30 Sep 2015 19:11:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&commat;jononor as &num;hardatwork as ever at &commat;thegrid" src="https://pbs.twimg.com/media/CP1lI-UU8AEIAtl.jpg:large">]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/t3chn1ck/status/632849718499016704</link>
             <guid isPermaLink="false">ba33d029-89ff-4ee3-8901-f7993ec66344</guid>
             <pubDate>Sun, 16 Aug 2015 11:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;jongold &num;hardatwork &num;USA&excl;" src="https://pbs.twimg.com/media/CMhU-ddWoAAZnsJ.jpg:large">]]></description>
-            <link>https://twitter.com/t3chn1ck/status/632849182815055872</link>
-            <guid isPermaLink="false">9259e218-c746-4174-ac9a-a062d4ed540a</guid>
-            <pubDate>Sun, 16 Aug 2015 09:44:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
