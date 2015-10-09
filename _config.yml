@@ -1,6 +1,6 @@
 name: Hard at Work
 favicon: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/hardatwork.ico'
-layout_spectrum: 0.11017
+layout_spectrum: 0.91827
 typography_spectrum: 0.11404
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#be9c7d'
     - '#746356'
     - '#1b5a7d'
-  brandStrength: 0.0625
+  brandStrength: 0
   lightness: 0.0625
   saturation: 0.25
   rhythmicContrast: 0.75
