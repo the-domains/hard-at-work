@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Hard at Work]]></title>
         <description><![CDATA[Hard at Work]]></description>
         <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Sep 2015 19:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 22:13:53 GMT</lastBuildDate>
         <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&commat;mrmrs&lowbar; &num;hardatwork" src="https://pbs.twimg.com/media/CS1pydvUYAAS9LZ.jpg:large">]]></description>
+            <link>https://twitter.com/jxnblk/status/661301040512262144</link>
+            <guid isPermaLink="false">cda2e43a-ba35-4179-96eb-d34984a05e91</guid>
+            <pubDate>Mon, 02 Nov 2015 22:12:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Another one bit the dust &num;hardatwork &commat;bergie &commat;jononor" src="https://pbs.twimg.com/media/CQLFxSFWEAAjhwx.jpg:large">]]></description>
@@ -69,13 +75,6 @@
             <link>https://twitter.com/aut0mata/status/632849694176202752</link>
             <guid isPermaLink="false">4cf3fd8d-35cc-4bbd-9b08-44308686e25c</guid>
             <pubDate>Sun, 16 Aug 2015 11:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;jononor &num;hardatwork &commat;ccc" src="https://pbs.twimg.com/media/CMhVchSWgAAqket.jpg:large">]]></description>
-            <link>https://twitter.com/t3chn1ck/status/632849718499016704</link>
-            <guid isPermaLink="false">ba33d029-89ff-4ee3-8901-f7993ec66344</guid>
-            <pubDate>Sun, 16 Aug 2015 11:34:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
