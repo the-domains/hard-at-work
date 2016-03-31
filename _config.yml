@@ -25,4 +25,9 @@ color:
   lightness: 0.125
   saturation: 0.25
   rhythmicContrast: 0.75
+navigation:
+- url: 'https://thegrid.io/'
+  name: Homepage
+- url: 'https://twitter.com/search?q=%23hardatwork%20%40thegrid'
+  name: Twitter
 purpose: []
