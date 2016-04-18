@@ -4,8 +4,15 @@
         <description><![CDATA[Hard at Work]]></description>
         <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 16:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 20:39:14 GMT</lastBuildDate>
         <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="@narrowd #hardatwork at @thegrid Santa Rosa meetuppic.twitter.com/tnrBCi5QGx" src="https://pbs.twimg.com/media/CgWhl3YUsAAV-w_.jpg:large">]]></description>
+            <link>https://twitter.com/bergie/status/722160987533488128</link>
+            <guid isPermaLink="false">1288308f-b99b-4e4c-b9eb-75d5d8833a67</guid>
+            <pubDate>Mon, 18 Apr 2016 20:38:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="@marioscheliga #hardatwork at @thegrid Santa Rosa meetuppic.twitter.com/VDpCnTJ0QJ" src="https://pbs.twimg.com/media/Cf2rCm0VAAAxLnZ.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/bergie/status/646735671739199488</link>
             <guid isPermaLink="false">6561ff23-9ae8-42cf-a8bb-73d0304a5e06</guid>
             <pubDate>Wed, 23 Sep 2015 17:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;showup &num;hardatwork at &commat;thegrid Estonia meetup" src="https://pbs.twimg.com/media/CPQwJitUYAEU-24.jpg:large">]]></description>
-            <link>https://twitter.com/bergie/status/645193589421699072</link>
-            <guid isPermaLink="false">f75697bf-938e-4bc2-be57-5ebfa4d1ab24</guid>
-            <pubDate>Sat, 19 Sep 2015 11:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
