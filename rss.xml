@@ -4,8 +4,15 @@
         <description><![CDATA[Hard at Work]]></description>
         <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 21:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 21:10:19 GMT</lastBuildDate>
         <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e91cf759e7e781951b990fdd938248ecd9fd7382.jpg" alt="Vladimir @sibiroff #hardatwork during @thegrid hackathon">]]></description>
+            <link>https://twitter.com/jononor/status/741737875826413569</link>
+            <guid isPermaLink="false">e0a49a73-d8fc-4d6f-9f33-d290fe619dd3</guid>
+            <pubDate>Sat, 11 Jun 2016 21:10:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="@aut0mata #hardatwork at @thegrid API team Berlin meetuppic.twitter.com/Ube5Z4zjqX" src="https://pbs.twimg.com/media/Cksu0exWUAAfM5q.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/jxnblk/status/661301040512262144</link>
             <guid isPermaLink="false">cda2e43a-ba35-4179-96eb-d34984a05e91</guid>
             <pubDate>Mon, 02 Nov 2015 22:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Another one bit the dust &num;hardatwork &commat;bergie &commat;jononor" src="https://pbs.twimg.com/media/CQLFxSFWEAAjhwx.jpg:large">]]></description>
-            <link>https://twitter.com/4ngryMo/status/649298746912677889?t=1&amp;cn=bWVudGlvbg%3D%3D&amp;sig=e469a0e8f0a04a439bf71a7bc1a0c081185c39b3&amp;al=1&amp;refsrc=email&amp;iid=fc11bdeb33614abeb1ae05a39ff32650&amp;autoactions=1443639859&amp;uid=639003&amp;nid=4+1489</link>
-            <guid isPermaLink="false">44bd3024-2c0d-4460-a323-67fabebe1474</guid>
-            <pubDate>Wed, 30 Sep 2015 19:11:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
