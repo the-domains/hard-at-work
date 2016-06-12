@@ -3,25 +3,28 @@ author:
   - name: cbchouinard
     url: 'http://twitter.com/cbchouinard'
     avatar:
-      src: 'https://pbs.twimg.com/profile_images/531200405041348611/0JC_ecoj_bigger.jpeg'
-      width: 73
-      height: 73
+      src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/953f85349146ca17d6eba580534638dfb9ec3839.jpg
+      original: >-
+        https://pbs.twimg.com/profile_images/531200405041348611/0JC_ecoj_bigger.jpeg
+      width: 400
+      height: 400
       colors:
-        - - 32
-          - 29
-          - 32
-        - - 238
-          - 244
-          - 242
-        - - 83
-          - 65
-          - 60
-        - - 111
-          - 106
-          - 100
-        - - 181
-          - 189
-          - 189
+        - - 58
+          - 63
+          - 59
+        - - 4
+          - 4
+          - 2
+        - - 184
+          - 120
+          - 85
+        - - 201
+          - 184
+          - 177
+        - - 147
+          - 91
+          - 74
 related: []
 publisher:
   url: 'http://twitter.com'
@@ -43,11 +46,14 @@ description: '@bergie @jononor @d4tocchini @Inviz @thegrid #hardatwork'
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/cbchouinard/status/614806452209750017'
-datePublished: '2015-07-01T10:17:55.597Z'
+datePublished: '2016-06-12T17:51:42.179Z'
 title: ''
-dateModified: '2015-07-01T10:17:55.597Z'
+dateModified: '2016-06-12T17:51:41.286Z'
 sourcePath: _posts/2015-07-01-bergie-jononor-d4tocchini-inviz-thegrid-hardatwork.md
-published: true
+starred: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
