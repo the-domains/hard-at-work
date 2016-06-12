@@ -1,7 +1,7 @@
 name: Hard at Work
 favicon: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/hardatwork.ico'
-layout_spectrum: 0.0472662546671927
-typography_spectrum: 0.11404
+layout_spectrum: 0.10562446457333863
+typography_spectrum: 0.49682135228067636
 cta:
   domain: null
   bucket: null
