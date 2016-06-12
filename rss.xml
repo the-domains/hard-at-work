@@ -4,8 +4,15 @@
         <description><![CDATA[Hard at Work]]></description>
         <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 21:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 17:52:21 GMT</lastBuildDate>
         <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&commat;bergie &commat;jononor &commat;d4tocchini &commat;Inviz &commat;thegrid &num;hardatwork" src="https://pbs.twimg.com/media/CIg7NfiUkAAI7m5.jpg:large">]]></description>
+            <link>https://twitter.com/cbchouinard/status/614806452209750017</link>
+            <guid isPermaLink="false">1f97217c-7949-4d7f-9319-7a24e94d6610</guid>
+            <pubDate>Sun, 12 Jun 2016 17:51:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e91cf759e7e781951b990fdd938248ecd9fd7382.jpg" alt="Vladimir @sibiroff #hardatwork during @thegrid hackathon">]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/reemaalzaben/status/669132036611964928</link>
             <guid isPermaLink="false">5c4b2b2d-b507-44f3-b197-497dc4b5529b</guid>
             <pubDate>Tue, 24 Nov 2015 12:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;mrmrs&lowbar; &num;hardatwork" src="https://pbs.twimg.com/media/CS1pydvUYAAS9LZ.jpg:large">]]></description>
-            <link>https://twitter.com/jxnblk/status/661301040512262144</link>
-            <guid isPermaLink="false">cda2e43a-ba35-4179-96eb-d34984a05e91</guid>
-            <pubDate>Mon, 02 Nov 2015 22:12:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
