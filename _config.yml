@@ -1,6 +1,6 @@
 name: Hard at Work
 favicon: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/hardatwork.ico'
-layout_spectrum: 0.4069824970792979
+layout_spectrum: 0.0472662546671927
 typography_spectrum: 0.11404
 cta:
   domain: null
@@ -21,10 +21,10 @@ color:
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
-  brandStrength: 0.1540486952289939
-  lightness: 0.40766843082383275
-  saturation: 0.040545035153627396
-  rhythmicContrast: 0.09528015251271427
+  brandStrength: 0.2226167267654091
+  lightness: 0.6798470122739673
+  saturation: 0.5780277983285487
+  rhythmicContrast: 0.8549653482623398
 navigation:
   - url: 'https://twitter.com/search?q=%23hardatwork%20%40thegrid'
     name: Twitter
