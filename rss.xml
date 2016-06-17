@@ -4,7 +4,7 @@
         <description><![CDATA[Hard at Work]]></description>
         <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 13:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 07:31:38 GMT</lastBuildDate>
         <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>https://twitter.com/cbchouinard/status/614806452209750017</link>
             <guid isPermaLink="false">1f97217c-7949-4d7f-9319-7a24e94d6610</guid>
             <pubDate>Sun, 12 Jun 2016 17:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="can you guess who it is? #hardatwork on @thegridpic.twitter.com/g2DYeT4b3a" src="https://pbs.twimg.com/media/ClIlMi3VAAc5fUq.jpg:large">]]></description>
+            <link>https://twitter.com/aut0mata/status/743697842074583041</link>
+            <guid isPermaLink="false">12342ebc-2dc3-41db-bb80-184173d17974</guid>
+            <pubDate>Fri, 17 Jun 2016 07:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Vladimir @sibiroff #hardatwork one more time at @thegrid meetuppic.twitter.com/96UzUmPoAC" src="https://pbs.twimg.com/media/ClIkaLdUoAAdzdQ.jpg:large">]]></description>
+            <link>https://twitter.com/aut0mata/status/743696980287754241</link>
+            <guid isPermaLink="false">9d13fb09-4e6b-439a-a62a-3e3646cc845f</guid>
+            <pubDate>Fri, 17 Jun 2016 07:17:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://twitter.com/bergie/status/708433732781400064</link>
             <guid isPermaLink="false">8f8b3336-410f-4aca-8a15-b8d1197648a4</guid>
             <pubDate>Fri, 11 Mar 2016 23:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;jononor &num;hardatwork at &commat;thegrid Berlin meetup &sol; https&colon;&sol;&sol;logancij&period;com&sol;" src="https://pbs.twimg.com/media/CdQdG3XXIAA5bEf.jpg:large">]]></description>
-            <link>https://twitter.com/bergie/status/708223046767796225</link>
-            <guid isPermaLink="false">d2900400-1b56-4fbc-8cea-f9ed1a7ccf9b</guid>
-            <pubDate>Fri, 11 Mar 2016 09:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;jonnor &num;hardatwork with &commat;lat at &commat;thegrid" src="https://pbs.twimg.com/media/CYESVO4WcAApS1-.jpg:large">]]></description>
-            <link>https://twitter.com/bergie/status/684848776402595840</link>
-            <guid isPermaLink="false">d10ba600-2231-407e-aa7c-e357489d47cc</guid>
-            <pubDate>Wed, 06 Jan 2016 21:28:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
