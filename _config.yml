@@ -1,6 +1,6 @@
 name: Hard at Work
 favicon: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/hardatwork.ico'
-layout_spectrum: 0.37123527913354337
+layout_spectrum: 0.10
 typography_spectrum: 0.04624
 navigation:
   - url: 'https://twitter.com/search?q=%23hardatwork%20%40thegrid'
