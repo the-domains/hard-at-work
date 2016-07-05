@@ -1,5 +1,6 @@
 name: Hard at Work
 favicon: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/hardatwork.ico'
+style: the-composer
 layout_spectrum: 0.10
 typography_spectrum: 0.04624
 navigation:
