@@ -16,6 +16,7 @@ favicon: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/hardatwork.ico
 navigation:
   - url: 'https://twitter.com/search?q=%23hardatwork%20%40thegrid'
     name: Twitter
+    type: external
 cta:
   domain: null
   bucket: null
