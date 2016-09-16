@@ -4,15 +4,22 @@
         <description><![CDATA[Hard at Work]]></description>
         <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Sep 2016 03:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2016 10:31:32 GMT</lastBuildDate>
         <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Sep 2016 03:54:51 GMT</pubDate>
+        <pubDate>Fri, 16 Sep 2016 10:31:30 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&commat;bergie &commat;jononor &commat;d4tocchini &commat;Inviz &commat;thegrid &num;hardatwork" src="https://pbs.twimg.com/media/CIg7NfiUkAAI7m5.jpg:large">]]></description>
             <link>https://twitter.com/cbchouinard/status/614806452209750017</link>
             <guid isPermaLink="false">1f97217c-7949-4d7f-9319-7a24e94d6610</guid>
             <pubDate>Sun, 12 Jun 2016 17:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="@thegrid @narrowd @Jordy_Webb #hardatwork" src="https://pbs.twimg.com/media/Csd_n0VUIAAsAbX.jpg:large">]]></description>
+            <link>https://twitter.com/nickvelloff/status/776729788052451328</link>
+            <guid isPermaLink="false">0c40c556-9392-4657-afe6-e6d2143efb2d</guid>
+            <pubDate>Fri, 16 Sep 2016 10:30:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/bergie/status/722160987533488128</link>
             <guid isPermaLink="false">1288308f-b99b-4e4c-b9eb-75d5d8833a67</guid>
             <pubDate>Mon, 18 Apr 2016 20:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="@marioscheliga #hardatwork at @thegrid Santa Rosa meetuppic.twitter.com/VDpCnTJ0QJ" src="https://pbs.twimg.com/media/Cf2rCm0VAAAxLnZ.jpg:large">]]></description>
-            <link>https://twitter.com/bergie/status/719919577082175488</link>
-            <guid isPermaLink="false">5348bd2c-08ad-450e-9160-d8aec791a318</guid>
-            <pubDate>Tue, 12 Apr 2016 16:10:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
