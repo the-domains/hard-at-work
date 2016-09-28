@@ -12,6 +12,8 @@ color:
   saturation: 0.5780277983285487
   rhythmicContrast: 0.8549653482623398
 name: Hard at Work
+title: Hard at Work
+description: Hard at Work. Or Hardly Working?
 favicon: 'http://the-grid-user-content.s3-us-west-2.amazonaws.com/hardatwork.ico'
 navigation:
   - url: 'https://twitter.com/search?q=%23hardatwork%20%40thegrid'
