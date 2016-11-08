@@ -4,15 +4,22 @@
         <description><![CDATA[Hard at Work]]></description>
         <link>http://hardatwork.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Nov 2016 13:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2016 19:19:06 GMT</lastBuildDate>
         <atom:link href="http://hardatwork.no/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Nov 2016 13:03:03 GMT</pubDate>
+        <pubDate>Tue, 08 Nov 2016 19:18:42 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&commat;bergie &commat;jononor &commat;d4tocchini &commat;Inviz &commat;thegrid &num;hardatwork" src="https://pbs.twimg.com/media/CIg7NfiUkAAI7m5.jpg:large">]]></description>
             <link>https://twitter.com/cbchouinard/status/614806452209750017</link>
             <guid isPermaLink="false">1f97217c-7949-4d7f-9319-7a24e94d6610</guid>
             <pubDate>Sun, 12 Jun 2016 17:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="@hannesstruss #hardatwork at @thegrid Healdsburg meetup" src="https://pbs.twimg.com/media/Cww0nsmVQAAA-Gb.jpg:large">]]></description>
+            <link>https://twitter.com/bergie/status/796069116041793536</link>
+            <guid isPermaLink="false">bccefbe4-7261-4214-b8b0-c17282f423cb</guid>
+            <pubDate>Tue, 08 Nov 2016 19:18:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/jononor/status/741737875826413569</link>
             <guid isPermaLink="false">e0a49a73-d8fc-4d6f-9f33-d290fe619dd3</guid>
             <pubDate>Sat, 11 Jun 2016 21:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/983ed42f1da7e39503b5eda1bf534a60c36d0282.jpg" alt="@jononor #hardatwork at @thegrid API team Berlin meetup">]]></description>
-            <link>https://twitter.com/bergie/status/738313456047251456</link>
-            <guid isPermaLink="false">50b82811-fa09-478d-97f8-8fe292085ffe</guid>
-            <pubDate>Thu, 02 Jun 2016 10:19:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
